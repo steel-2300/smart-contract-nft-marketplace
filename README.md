@@ -1,11 +1,6 @@
 # NFT Marketplace 🛒  
 A decentralized marketplace for buying and selling NFTs using Ethereum and Polygon blockchain networks.  
 
-## 📌 Features  
-- Mint NFTs directly from the platform  
-- Buy and sell NFTs using smart contracts  
-- Secure transactions with escrow functionality  
-- Web3 wallet integration (MetaMask, WalletConnect)  
 
 ## 🔗 Project Structure  
 /smart-contract-nft-marketplace
